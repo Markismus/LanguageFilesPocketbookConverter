@@ -1,5 +1,8 @@
-Comparing language folders
-These language folders are present:
+# Language files for Pocketbook Dictionary Converter
+Pocketbook has binary dicionary dic-files, that can be created from xdxf-files with the a windows program _converter.exe_ and a set of three language files: keyboard.txt, collates.txt and morphems.txt
+
+**Comparing language folders**
+_These language folders are present:_
 cs
 da
 de
@@ -38,7 +41,7 @@ uk
 ukr
 ( Explanantions of the language a folder refers to is usually given in the first line of keyboard.txt )
 
-en/collates.txt  is different from:
+_en/collates.txt  is different from:_
 fre
 heb
 he
@@ -48,7 +51,7 @@ jaR
 pl
 ro
 
-en/keyboard.txt is different from:
+_en/keyboard.txt is different from:_
 cs
 da
 de
@@ -84,7 +87,7 @@ tr      ( Turkish)
 uk      ( UA Ukrainian, uk is more expanded than ukr)
 ukr     ( UA Ukrainian, ukr makes a difference between lc and uc  of a few symbols )
 
-en/morphems.txt is different from:
+_en/morphems.txt is different from:_
 de
 fre     ( Identical to fr)
 fr      ( Identical to fre)
@@ -102,6 +105,6 @@ sv      ( Identical to de)
 uk      ( Identical to ukr)
 ukr     ( Identical to uk)
 
-Conclusion: 
+_Conclusion: _
 nl and sv   are copied from de
 el          is  copied from en
