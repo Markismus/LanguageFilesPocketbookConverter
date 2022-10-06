@@ -1,5 +1,6 @@
 # Language files for Pocketbook Dictionary Converter
 Pocketbook has binary dicionary dic-files, that can be created from xdxf-files with the a windows program _converter.exe_ and a set of three language files: keyboard.txt, collates.txt and morphems.txt
+The file _converter.exe_ is a patch binary to remove the maximum block count. (See [this post on mobileread.](https://www.mobileread.com/forums/showthread.php?p=3923282#post3923282) ) This allows for a easier conversion form xdxf- to dic-format.
 
 **Comparing language folders**
 _These language folders are present:_
