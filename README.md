@@ -57,6 +57,7 @@ _en/keyboard.txt is different from:_
 - cs
 - da
 - de
+- el
 - eng     ( en is more expanded)
 - es
 - fre
@@ -109,4 +110,3 @@ _en/morphems.txt is different from:_
 
 _Conclusion:_
 - nl and sv   are copied from de
-- el          is  copied from en
