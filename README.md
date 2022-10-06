@@ -107,6 +107,6 @@ _en/morphems.txt is different from:_
 - uk      ( Identical to ukr)
 - ukr     ( Identical to uk)
 
-_Conclusion: _
+_Conclusion:_
 - nl and sv   are copied from de
 - el          is  copied from en
