@@ -1,0 +1,14 @@
+﻿%1=aeiouy
+%2=bcdfghjklmnpqrstvwxz
+^masu/nai/masen/you/mashou/nai=ru/u
+^ro/te/ta/nakatta/mashita/tarou/reba/nakereba/tara/nakattara/mashitara/rareru/rarenai=ru/u
+^raremasu/raremasen/saseru/sasenai/sasemasu/sasemasen=ru/u
+
+^anai/imasu/imasuen/ou/imashou/e=u
+^tte/ranai/tta/ranakatta/rimashita/rimasen/ttarou/reba/ranakereba/ttara/rimasen=ru/u
+
+^imashita/imasen=u
+^mashita/=ru
+^ku/=i
+^iku/=ii
+^katta/=i

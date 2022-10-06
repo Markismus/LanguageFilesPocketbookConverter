@@ -1,0 +1,24 @@
+﻿PT: Portuguese
+_@$%:;!?"()
+`1234567890
+qwertyuio
+asdfghjkl
+zxcvbnmpç
+ =+-~ .,*/
+{}$%^#!&"[]
+`1234567890
+QWERTYUIO
+ASDFGHJKL
+ZXCVBNMPÇ
+ =+-~ .,*/
+--
+1 2 3 4 5 6 7 8 9 0 cn
+q w e r t y u i o p cl
+a s d f g h j k l z bs 
+sh x c v sp b n m ç lg ok
+--
+_ @ # % ^ & * ( ) / cn
+Q W E R T Y U I O P cl
+A S D F G H J K L Z bs 
+sh X C V sp B N M Ç lg ok 
+--

@@ -1,0 +1,24 @@
+﻿NO: Norvegian Bokmal
+           
+           
+qwertyuio
+asdfghjkl
+zxcvbnmpå
+üøæ-~ .,'  
+           
+           
+QWERTYUIO
+ASDFGHJKL
+ZXCVBNMPÅ
+ØÆ-~ .,' 
+--
+q w e r t y u i o p cn
+a s d f g h j k l å cl
+z x c v b n m ü ø æ bs
+sh . sp:5   , - ok:2
+--
+Q W E R T Y U I O P cn
+A S D F G H J K L Å cl
+Z X C V B N M Ø Æ bs:2
+sh . sp:5   , - ok:2
+--

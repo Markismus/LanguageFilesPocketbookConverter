@@ -1,0 +1,24 @@
+﻿PL: Polish
+           
+ ęóąńśłżźć 
+qwertyuio
+asdfghjkl
+zxcvbnmp'
+ =+-~ .,*/ 
+           
+ ĘÓĄŃŚŁŻŹĆ 
+QWERTYUIO
+ASDFGHJKL
+ZXCVBNMP'
+ =+-~ .,*/ 
+--
+q w e r t y u i o p ó cn
+a s d f g h j k l ę ł bs
+z x c v b n m ą ś ń ' cl
+sh ż ź ć sp:2 . , sh ok:2
+--
+Q W E R T Y U I O P Ó cn
+A S D F G H J K L Ę Ł bs
+Z X C V B N M Ą Ś Ń " cl
+sh Ż Ź Ć sp:2 ; : sh ok:2
+--

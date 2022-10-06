@@ -1,0 +1,24 @@
+﻿IS: Icelandic
+           
+           
+qwertyuio
+asdfghjkl
+zxcvbnmpö
+ ðæþ~ -.,'  
+           
+              
+QWERTYUIO
+ASDFGHJKL
+ZXCVBNMPÖ
+ ÐÆÞ~ -.,' 
+--
+q w e r t y u i o p cn
+a s d f g h j k l ö cl
+z x c v b n m ð æ þ bs
+sh . sp:5   , - ok:2
+--
+Q W E R T Y U I O P cn
+A S D F G H J K L Ö cl
+Z X C V B N M Ð Æ Þ bs 
+sh . sp:5   , - ok:2
+--

@@ -1,0 +1,24 @@
+﻿TR: Turkish
+
+
+qwertyuio
+asdfghjkl
+zxcvbnmp'
+ğüş-~ .,iöç
+
+
+QWERTYUIO
+ASDFGHJKL
+ZXCVBNMP'
+ĞÜŞ-~ .,İÖÇ
+--
+q w e r t y u i o p cn
+a s d f g h j k l ğ cl
+z x c v b n m ü ş i bs
+sh ö ç sp:3 . , - ok:2
+--
+Q W E R T Y U I O P cn
+A S D F G H J K L Ğ cl
+Z X C V B N M Ü Ş İ bs
+sh Ö Ç sp:3 . , - ok:2
+--

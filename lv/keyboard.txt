@@ -1,0 +1,26 @@
+﻿LV: Latvian
+_@$%:;!?"()
+ŭēčžšķģņīāļ
+qwertyuio
+asdfghjkl
+zxcvbnmp'
+ =+-~ .,*/ 
+`1234567890   
+ŪĒČŽŠĶĢŅĪĀĻ
+QWERTYUIO
+ASDFGHJKL
+ZXCVBNMP'
+ =+-~ .,*/ 
+--
+1 2 3 4 5 6 7 8 9 0 @
+ŭ ē č ž š ķ ģ ņ ī ā cn
+q w e r t y u i o p cl
+a s d f g h j k l ļ bs 
+sh z x c v sp b n m lg ok 
+--
+! @ # $ % ^ & * ( ) -
+Ū Ē Č Ž Š Ķ Ģ Ņ Ī Ā cn
+Q W E R T Y U I O P cl
+A S D F G H J K L Ļ bs 
+sh Z X C V sp B N M lg ok
+--

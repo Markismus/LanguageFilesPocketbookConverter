@@ -1,0 +1,28 @@
+﻿CS: Czech
+_@$%:;!?"()           
+ěščřžýáíéúđ
+qwertzuio
+asdfghjkl
+yxcvbnmpł
+ůß'.- ~_@*/
+{}$%^#!&"[]
+`1234567890
+QWERTZUIO
+ASDFGHJKL
+YXCVBNMPŁ
+Ð/'-~ .,*=+  
+--
+1 2 3 4 5 6 7 8 9 0 `
+q w e r t z u i o p ů
+a s d f g h j k l ě cn
+y x c v b n m š č ß cl
+ř ž ý á í é ú đ ł bs:2
+sh . , sp:3 - / lg ok:2
+--
+1 2 3 4 5 6 7 8 9 0 `
+! @ # $ % ^ & * ( ) _
+Q W E R T Z U I O P cn
+A S D F G H J K L Ð cl
+Y X C V B N M Ł ' bs:2
+sh . , sp:4 - lg ok:2
+--

@@ -1,0 +1,26 @@
+FR: French
+           
+           
+azertyuio
+qsdfghjkl
+wxcvbnmp'
+àéèçœù- ~
+           
+           
+AZERTYUIO
+QSDFGHJKL
+WXCVBNMP'
+ÀÉÈÇŒÙ- ~
+a z e r t y u i o p cn
+q s d f g h j k l cl:2
+sh w x c v b n m - bs:2
+à é è ç œ ù sp:3 ok:2
+--
+A Z E R T Y U I O P cn
+Q S D F G H J K L cl:2
+sh W X C V B N M - bs:2
+À É È Ç Œ Ù sp:3 ok:2
+--
+
+
+

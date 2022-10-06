@@ -1,0 +1,24 @@
+﻿DA: Danish
+           
+           
+qwertyuio
+asdfghjkl
+zxcvbnmpå
+üæø-~ .,'  
+           
+             
+QWERTYUIO
+ASDFGHJKL
+ZXCVBNMPÅ
+ ÆØ-~ .,' 
+--
+q w e r t y u i o p cn
+a s d f g h j k l å cl
+z x c v b n m ü æ ø bs
+sh . sp:5   , - ok:2
+--
+Q W E R T Y U I O P cn
+A S D F G H J K L cl:2
+Z X C V B N M Å Æ Ø bs 
+sh . sp:5   , - ok:2
+--

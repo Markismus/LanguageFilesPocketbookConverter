@@ -1,0 +1,26 @@
+﻿HU: Hungarian
+
+öüóőúđłéáßű
+qwertzuio
+asdfghjkl
+yxcvbnmpí
+  '-~ .,  
+   
+ÖÜÓŐÚÐŁÉÁŰÍ   
+QWERTZUIO
+ASDFGHJKL
+YXCVBNMP'
+  -~ ., 
+--
+ö ü ó ő ú đ ł é á ß ű 
+q w e r t z u i o p cn
+a s d f g h j k l cl:2
+y x c v b n m í bs:3
+sh . sp:5   , - ok:2
+--
+Q W E R T Z U I O P cn
+A S D F G H J K L Ö cl
+Y X C V B N M Ü Ó Ő bs 
+Ú Ð Ł É Á Ű Í : ' " _
+sh . sp:5   , - ok:2
+--

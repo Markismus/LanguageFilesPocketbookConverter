@@ -1,0 +1,26 @@
+﻿LT: Lithuanian
+_@$%:;!?"()
+ ąžßųėūčšę 
+qwertyuio
+asdfghjkl
+zxcvbnmp'
+  -~ .,  
+`1234567890   
+ĄŽŲĖŪČŠĘ/
+QWERTYUIO
+ASDFGHJKL
+ZXCVBNMP'
+  -~ ., 
+--
+1 2 3 4 5 6 7 8 9 0 @
+q w e r t y u i o p cn
+a s d f g h j k l ą cl
+z x c v b n m ž ß ų bs
+sh ė ū č š sp ę . - lg ok
+--
+! @ # $ % ^ & * ( ) /
+Q W E R T Y U I O P cn
+A S D F G H J K L Ą cl
+Z X C V B N M Ž Ų Ė bs
+sh Ū Č Š Ę sp , . - lg ok
+--

@@ -1,0 +1,24 @@
+﻿ES: Spanish
+           
+           
+qwertyuio
+asdfghjkl
+zxcvbnmp'
+ñç -~ .,  
+           
+           
+QWERTYUIO
+ASDFGHJKL
+ZXCVBNMP'
+ÑÇ -~ ., 
+--
+q w e r t y u i o p cn
+a s d f g h j k l ñ cl
+z x c v b n m ç ' bs:2
+sh . sp:5     , - ok:2
+--
+Q W E R T Y U I O P cn
+A S D F G H J K L Ñ cl
+Z X C V B N M Ç ' bs:2
+sh . sp:5     , - ok:2
+--
