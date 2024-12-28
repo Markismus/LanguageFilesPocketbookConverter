@@ -85,7 +85,7 @@ _en/keyboard.txt is different from:_
 - sl      ( Slovene)
 - spa     ( Start like eng, but misses last 8 lines)
 - sp      ( States ES: Spanish )
-- sv      ( Identical to DE)
+- sv
 - tr      ( Turkish)
 - uk      ( UA Ukrainian, uk is more expanded than ukr)
 - ukr     ( UA Ukrainian, ukr makes a difference between lc and uc  of a few symbols )
@@ -104,9 +104,9 @@ _en/morphems.txt is different from:_
 - ru      ( Identical to ru)
 - rus     ( Identical to rus)
 - spa
-- sv      ( Identical to de)
+- sv
 - uk      ( Identical to ukr)
 - ukr     ( Identical to uk)
 
 _Conclusion:_
-- nl and sv   are copied from de
+- nl is copied from de
