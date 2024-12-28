@@ -1,13 +1,24 @@
-﻿DE
+﻿SV: Swedish
            
            
-qwertzuio
+qwertyuio
 asdfghjkl
-yxcvbnmp'
-üöä~- ß.,    
+zxcvbnmpå
+üöä-~ .,'  
            
-           
+             
 QWERTYUIO
 ASDFGHJKL
-ZXCVBNMP'
-ÜÖÄ~-  .,    
+ZXCVBNMPÅ
+ ÖÄ-~ .,' 
+--
+q w e r t y u i o p cn
+a s d f g h j k l å cl
+z x c v b n m ü ö ä bs
+sh . sp:5   , - ok:2
+--
+Q W E R T Y U I O P cn
+A S D F G H J K L cl:2
+Z X C V B N M Å Ö Ä bs 
+sh . sp:5   , - ok:2
+--
